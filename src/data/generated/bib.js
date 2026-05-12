@@ -1,0 +1,173 @@
+﻿const generatedBibEntries = {
+    "Ayadi2021": {
+        "author": "Wadhah Ayadi and Wajdi Elhamzi and Imen Charfi and Mohamed Atri",
+        "doi": "10.1007/s11063-020-10398-2",
+        "journal": "Neural Processing Letters",
+        "keywords": "custom CNN; deep learning; classification metrics",
+        "number": "1",
+        "pages": "671--700",
+        "title": "Deep CNN for Brain Tumor Classification",
+        "type": "article",
+        "volume": "53",
+        "year": "2021"
+    },
+    "Badza2020": {
+        "author": "Milica M. Badza and Marko C. Barjaktarovic",
+        "doi": "10.3390/app10061999",
+        "journal": "Applied Sciences",
+        "keywords": "custom CNN; MRI; classification",
+        "number": "6",
+        "pages": "1999",
+        "title": "Classification of Brain Tumors from MRI Images Using a Convolutional Neural Network",
+        "type": "article",
+        "volume": "10",
+        "year": "2020"
+    },
+    "Cheng2015": {
+        "author": "Jun Cheng and Weimin Huang and Shuangliang Cao and Ru Yang and Wei Yang and Zhaodi Yun and Zhijian Wang and Qianjin Feng",
+        "doi": "10.1371/journal.pone.0140381",
+        "journal": "PLOS ONE",
+        "keywords": "dataset; tumor region; classical machine learning; benchmark",
+        "number": "10",
+        "pages": "e0140381",
+        "title": "Enhanced Performance of Brain Tumor Classification via Tumor Region Augmentation and Partition",
+        "type": "article",
+        "volume": "10",
+        "year": "2015"
+    },
+    "Deepak2019": {
+        "author": "S. Deepak and P. M. Ameer",
+        "doi": "10.1016/j.compbiomed.2019.103345",
+        "journal": "Computers in Biology and Medicine",
+        "keywords": "transfer learning; CNN features; classifier",
+        "pages": "103345",
+        "title": "Brain tumor classification using deep CNN features via transfer learning",
+        "type": "article",
+        "volume": "111",
+        "year": "2019"
+    },
+    "Disci2025": {
+        "author": "Rukiye Disci and Fatih Gurcan and Ahmet Soylu",
+        "doi": "10.3390/cancers17010121",
+        "journal": "Cancers",
+        "keywords": "transfer learning; pre-trained CNN; modern comparison",
+        "number": "1",
+        "pages": "121",
+        "title": "Advanced Brain Tumor Classification in MR Images Using Transfer Learning and Pre-Trained Deep CNN Models",
+        "type": "article",
+        "volume": "17",
+        "year": "2025"
+    },
+    "Ge2020": {
+        "author": "Chenjie Ge and Irene Yu-Hua Gu and Asgeir Store Jakola and Jie Yang",
+        "doi": "10.1186/s12880-020-00485-0",
+        "journal": "BMC Medical Imaging",
+        "keywords": "semi-supervised learning; limited labels; clinical annotation",
+        "pages": "87",
+        "title": "Deep semi-supervised learning for brain tumor classification",
+        "type": "article",
+        "volume": "20",
+        "year": "2020"
+    },
+    "Gu2021": {
+        "author": "Xiaoqing Gu and Zongxuan Shen and Jing Xue and Yiqing Fan and Tongguang Ni",
+        "doi": "10.3389/fnins.2021.679847",
+        "journal": "Frontiers in Neuroscience",
+        "keywords": "dictionary learning; hybrid features; local constraint",
+        "pages": "679847",
+        "title": "Brain Tumor MR Image Classification Using Convolutional Dictionary Learning With Local Constraint",
+        "type": "article",
+        "volume": "15",
+        "year": "2021"
+    },
+    "Hao2021": {
+        "author": "Ruqian Hao and Khashayar Namdar and Lin Liu and Farzad Khalvati",
+        "doi": "10.3389/frai.2021.635766",
+        "journal": "Frontiers in Artificial Intelligence",
+        "keywords": "active learning; transfer learning; annotation efficiency",
+        "pages": "635766",
+        "title": "A Transfer Learning-Based Active Learning Framework for Brain Tumor Classification",
+        "type": "article",
+        "volume": "4",
+        "year": "2021"
+    },
+    "Hun2024": {
+        "author": "Wei-Jie Hun and Jit-Yan Lim and Kian-Ming Lim and Chin-Poo Lee and Yong-Xuan Tan and Pa-Pa-Min",
+        "booktitle": "Proceedings of the IEEE Conference on Systems, Process and Control, ICSPC",
+        "doi": "10.1109/ICSPC63060.2024.10862279",
+        "keywords": "ensemble learning; DenseNet; EfficientNet; transfer learning",
+        "number": "2024",
+        "pages": "95--100",
+        "title": "Brain Tumor Detection via Transfer Learning and Ensemble Learning",
+        "type": "inproceedings",
+        "year": "2024"
+    },
+    "Mathivanan2024": {
+        "author": "Sandeep Kumar Mathivanan and Sridevi Sonaimuthu and Sankar Murugesan and Hariharan Rajadurai and Basu Dev Shivahare and Mohd Asif Shah",
+        "doi": "10.1038/s41598-024-57970-7",
+        "journal": "Scientific Reports",
+        "keywords": "transfer learning; deep learning; model comparison",
+        "pages": "7232",
+        "title": "Employing deep learning and transfer learning for accurate brain tumor detection",
+        "type": "article",
+        "volume": "14",
+        "year": "2024"
+    },
+    "Noreen2020": {
+        "author": "Neelum Noreen and Sellappan Palaniappan and Abdul Qayyum and Iftikhar Ahmad and Muhammad Imran and Muhammad Shoaib",
+        "doi": "10.1109/ACCESS.2020.2978629",
+        "journal": "IEEE Access",
+        "keywords": "feature fusion; concatenation; ensemble",
+        "pages": "55135--55144",
+        "title": "A Deep Learning Model Based on Concatenation Approach for the Diagnosis of Brain Tumor",
+        "type": "article",
+        "volume": "8",
+        "year": "2020"
+    },
+    "Rehman2020": {
+        "author": "Arshia Rehman and Saeeda Naz and Muhammad Imran Razzak and Faiza Akram and Muhammad Imran",
+        "doi": "10.1007/s00034-019-01246-3",
+        "journal": "Circuits, Systems, and Signal Processing",
+        "keywords": "transfer learning; pre-trained CNN; automatic classification",
+        "number": "2",
+        "pages": "757--775",
+        "title": "A Deep Learning-Based Framework for Automatic Brain Tumors Classification Using Transfer Learning",
+        "type": "article",
+        "volume": "39",
+        "year": "2020"
+    },
+    "Shamshad2024": {
+        "author": "Nadia Shamshad and Danish Sarwr and Ahmad Almogren and Kiran Saleem and Alia Munawar and Ateeq Ur Rehman and Salil Bharany",
+        "doi": "10.1109/ACCESS.2024.3430109",
+        "journal": "IEEE Access",
+        "keywords": "transfer learning; efficiency; comparative study",
+        "pages": "100407--100418",
+        "title": "Enhancing Brain Tumor Classification by a Comprehensive Study on Transfer Learning Techniques and Model Efficiency Using MRI Datasets",
+        "type": "article",
+        "volume": "12",
+        "year": "2024"
+    },
+    "Swati2019": {
+        "author": "Zar Nawab Khan Swati and Qinghua Zhao and Muhammad Kabir and Farman Ali and Zakir Ali and Saeed Ahmed and Jianfeng Lu",
+        "doi": "10.1016/j.compmedimag.2019.05.001",
+        "journal": "Computerized Medical Imaging and Graphics",
+        "keywords": "transfer learning; fine tuning; MR images",
+        "pages": "34--46",
+        "title": "Brain tumor classification for MR images using transfer learning and fine-tuning",
+        "type": "article",
+        "volume": "75",
+        "year": "2019"
+    },
+    "Tandel2019": {
+        "author": "Gopal S. Tandel and Mainak Biswas and Omprakash G. Kakde and Ashish Tiwari and Harman S. Suri and Monica Turk and John R. Laird and Christopher K. Asare and Annabel A. Ankrah and N. N. Khanna and B. K. Madhusudhan and Luca Saba and Jasjit S. Suri",
+        "doi": "10.3390/cancers11010111",
+        "journal": "Cancers",
+        "keywords": "survey; deep learning; brain cancer; classification",
+        "number": "1",
+        "pages": "111",
+        "title": "A Review on a Deep Learning Perspective in Brain Cancer Classification",
+        "type": "article",
+        "volume": "11",
+        "year": "2019"
+    }
+};
